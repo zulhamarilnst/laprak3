@@ -1,0 +1,15 @@
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\bin\Debug\net6.0\tugasLaprak3.exe
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\bin\Debug\net6.0\tugasLaprak3.deps.json
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\bin\Debug\net6.0\tugasLaprak3.runtimeconfig.json
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\bin\Debug\net6.0\tugasLaprak3.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\bin\Debug\net6.0\tugasLaprak3.pdb
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.csproj.AssemblyReference.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.AssemblyInfoInputs.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.AssemblyInfo.cs
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.csproj.CoreCompileInputs.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\refint\tugasLaprak3.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.pdb
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\tugasLaprak3.genruntimeconfig.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\Minggu ke 3\tugasLaprak3\tugasLaprak3\obj\Debug\net6.0\ref\tugasLaprak3.dll
